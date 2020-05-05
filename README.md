@@ -7,10 +7,10 @@
 
 ## Rabbitmq
 
-####1. Install rabbitmq
+#### 1. Install rabbitmq
 https://www.rabbitmq.com/download.html
 
-####2. Manually Generating a CA, Certificates and Private Keys
+#### 2. Manually Generating a CA, Certificates and Private Keys
 https://www.rabbitmq.com/ssl.html
 ```
 cd scripts/rabbitmq/
